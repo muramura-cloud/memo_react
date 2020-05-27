@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/memo_react/static/css/main.a07950d1.chunk.css",
+    "main.js": "/memo_react/static/js/main.f3af505d.chunk.js",
+    "main.js.map": "/memo_react/static/js/main.f3af505d.chunk.js.map",
+    "runtime-main.js": "/memo_react/static/js/runtime-main.1ea1390a.js",
+    "runtime-main.js.map": "/memo_react/static/js/runtime-main.1ea1390a.js.map",
+    "static/js/2.800a5405.chunk.js": "/memo_react/static/js/2.800a5405.chunk.js",
+    "static/js/2.800a5405.chunk.js.map": "/memo_react/static/js/2.800a5405.chunk.js.map",
+    "index.html": "/memo_react/index.html",
+    "precache-manifest.3dfc28c14292a8fe6e30a5562433c5cc.js": "/memo_react/precache-manifest.3dfc28c14292a8fe6e30a5562433c5cc.js",
+    "service-worker.js": "/memo_react/service-worker.js",
+    "static/css/main.a07950d1.chunk.css.map": "/memo_react/static/css/main.a07950d1.chunk.css.map",
+    "static/js/2.800a5405.chunk.js.LICENSE.txt": "/memo_react/static/js/2.800a5405.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/memo_react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ea1390a.js",
+    "static/js/2.800a5405.chunk.js",
+    "static/css/main.a07950d1.chunk.css",
+    "static/js/main.f3af505d.chunk.js"
+  ]
+}
