@@ -1,2 +1,3 @@
 JavaScriptのフレームワークであるREACTを使って簡単なメモを作成しました。
 Reduxを使って共通のデータを扱い、永続化しました。
+GitHub　pagesで公開しました。
